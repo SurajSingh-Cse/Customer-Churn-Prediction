@@ -120,3 +120,6 @@ Include:
 
 ## ⭐ Give this repo a star if you found it helpful!
 
+<img width="662" height="385" alt="vertopal com_Customer_churn_prediction pdf" src="https://github.com/user-attachments/assets/95d54360-925b-4fbc-aaec-30d73ec02efc" />
+
+
