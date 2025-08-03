@@ -110,8 +110,11 @@ Include:
 ---
     Aspiring Data Analyst | Python | SQL | Machine Learning  
     📍 From Rudraprayag, Uttarakhand | 📘 B.Tech CSE @ DBGI, Dehradun  
-    🔗 [LinkedIn Profile](www.linkedin.com/in/singh-suraj-negi)  
-    🐙 [GitHub](https://github.com/SurajSingh-Cse/Customer-Churn-Prediction)
+  🔗 [LinkedIn Profile](www.linkedin.com/in/singh-suraj-negi)  
+
+
+  
+  🐙 [GitHub](https://github.com/SurajSingh-Cse/Customer-Churn-Prediction)
 
 ---
 
